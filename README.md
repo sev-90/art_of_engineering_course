@@ -11,3 +11,8 @@ To help you get started, we've provided some code snippets and data sets in this
 Throughout the project, you'll have the opportunity to collaborate with your classmates, share your findings, and receive feedback from your peers and instructors. We encourage you to take advantage of these opportunities to learn from each other and develop your skills as a data analyst and urban planner.
 
 We hope that you find this project to be both challenging and rewarding, and we look forward to seeing the insights that you'll uncover as you work on it. Good luck, and have fun!
+
+## Requirements
+1) Python installation: I want you to have python installed in your computer.
+2) A text editor or IDE: You need a text editor or Integrated Development Environment (IDE) to open and edit the python files. My suggestion for Python development environment is Visual Studio Code.
+3) Very basic programming knowledge: As with working in Jupyter Notebook, you will need a basic understanding of programming concepts such as variables, data types, control structures, and functions.
