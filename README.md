@@ -14,7 +14,6 @@ We hope that you find this project to be both challenging and rewarding, and we 
 
 ## Requirements
 1) Python installation: I want you to have python installed in your computer. If you do not have installed that yet follow the instruction below:
-2) 
 ### For Mac:
 Open a web browser and go to the official Python website at https://www.python.org/downloads/.
 Click on the "Download Python" button located on the home page.
@@ -29,5 +28,6 @@ Scroll down and select the version of Python you want to download. We recommend 
 Click on the "Windows installer" link to download the installation file.
 Once the download is complete, open the installer file and follow the on-screen instructions to install Python on your Windows machine.
 Note that during the installation process, you may be asked to select certain configuration options such as adding Python to your system PATH or installing additional packages. You can choose the default options for most of these prompts, but make sure to read each one carefully to ensure that you are installing Python in the way that you want.
+
 2) A text editor or IDE: You need a text editor or Integrated Development Environment (IDE) to open and edit the python files. My suggestion for Python development environment is Visual Studio Code.
 3) Very basic programming knowledge: As with working in Jupyter Notebook, you will need a basic understanding of programming concepts such as variables, data types, control structures, and functions.
