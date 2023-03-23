@@ -14,12 +14,14 @@ We hope that you find this project to be both challenging and rewarding, and we 
 
 ## Requirements
 1) Python installation: I want you to have python installed in your computer. If you do not have installed that yet follow the instruction below:
+2) 
 ### For Mac:
 Open a web browser and go to the official Python website at https://www.python.org/downloads/.
 Click on the "Download Python" button located on the home page.
 Scroll down and select the version of Python you want to download. We recommend downloading the latest stable version.
 Click on the "macOS 64-bit installer" link to download the installation file.
 Once the download is complete, open the installer file and follow the on-screen instructions to install Python on your Mac.
+
 ### For Windows:
 Open a web browser and go to the official Python website at https://www.python.org/downloads/.
 Click on the "Download Python" button located on the home page.
