@@ -1,5 +1,6 @@
 # art_of_engineering_course
-Smart Cities project
+
+Introduction
 
 Welcome to the Smart Cities project repository for the Art of Engineering course! In this course, we'll be exploring the exciting field of smart cities, which combines technology, data analysis, and urban planning to create more efficient and livable cities.
 
