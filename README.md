@@ -1,4 +1,4 @@
-# art_of_engineering_course
+# art_of_engineering_course_smart_cities_project
 
 # Introduction
 
