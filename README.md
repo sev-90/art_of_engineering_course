@@ -37,3 +37,6 @@ Note that during the installation process, you may be asked to select certain co
 # Module 1
 In module 1 we expect you to be able to successfully generate the following map using the provided data and shapefiles and following the provided step-by-step guideline.
 Step 1) you will use the code ``shapefile_plotter.py'' to read and plot the shapefiles.
+
+![](./map.png)
+
