@@ -22,7 +22,7 @@ def read_grids(grid_file_name,grid_name):
     
     elif grid_name == 'attraction':
         attraction = gpd.read_file( 'shapefiles/Hudson_Yards_Cut/' + grid_file_name)
-        attraction.plot(ax = ax)
+        attraction.plot(ax = ax, color = 'red')
         return attraction
 
     else:
