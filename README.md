@@ -47,11 +47,11 @@ You will read two shapefiles, Cencus Block Groups (CBGs) and taxi zones. Home lo
 
 For our data analysis project our destination of interest is Hudson Yards.
 
-## Step 4) Group the visitors count by their home locations (origin of the trips).
+### Step 4) Group the visitors count by their home locations (origin of the trips).
 
 For this you will import function count_visit from visit_counter.py.
 
-## Step 5) Plot the distribution of origin/home location of visitors of Hudson yards.
+### Step 5) Plot the distribution of origin/home location of visitors of Hudson yards.
 
 You will see the pattern as the heat map in the figure below.
 
