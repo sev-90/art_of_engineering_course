@@ -40,15 +40,19 @@ In module 1 we expect you to be able to successfully generate the following map 
 ### Step 1) Import function read_data from data_reader.py to read mobile phone data.
 
 ### Step 2) Import function read_grids from grid_reader.py to read grids/shapefiles.
+
 You will read two shapefiles, Cencus Block Groups (CBGs) and taxi zones. Home locations of the visitors in the phone data are associated with cbgs. We will project them onto taxi zones. Because in next module our goal is to compare taxi users flow with visitors flow to Hudson Yards.
 
 ### Step 3) Extract mobile phone data of the visitors to the the destination of interest.
+
 For our data analysis project our destination of interest is Hudson Yards.
 
 ## Step 4) Group the visitors count by their home locations (origin of the trips).
+
 For this you will import function count_visit from visit_counter.py.
 
 ## Step 5) Plot the distribution of origin/home location of visitors of Hudson yards.
+
 You will see the pattern as the heat map in the figure below.
 
 ![](./map.png)
