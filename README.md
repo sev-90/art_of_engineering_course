@@ -35,12 +35,17 @@ Note that during the installation process, you may be asked to select certain co
 3) Very basic programming knowledge: As with working in Jupyter Notebook, you will need a basic understanding of programming concepts such as variables, data types, control structures, and functions.
 
 4) Required packages (try pip install or conda install if you have not already installed) :
+
     • pandas
     • geopandas
     • matplotlib
     • shapely 
       
 # Module 1
+
+You need to be able to run the main.ipynb file cell by cell successfully.
+
+
 In module 1 we expect you to be able to successfully generate the following map using the provided data and shapefiles and following the provided step-by-step guideline.
 
 ### Step 1) Import function read_data from data_reader.py to read mobile phone data.
