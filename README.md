@@ -81,4 +81,4 @@ Step 2) Re-run the main.ipynb code and the added Module 2 section
 Step 3) Generate the comparison map and interpret the pattern.
 
 
-
+![](./maps/comparison_map.png)
