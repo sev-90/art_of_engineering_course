@@ -18,7 +18,7 @@ def count_visits(geoData_target, nyc_geoids):
                     visits[cbg] += cnt
                 else:
                     visits.update({cbg:cnt})
-    visits = pd.DataFrame(visits.items(), columns=['geoid','cnt'])
+    visits = pd.DataFrame(visits.items(), columns=['geoid','visitor_cnt'])
     visits = visits[visits['geoid'].isin(nyc_geoids)].reset_index(drop=True)
     print('There are visitors from {} unique cbgs zone'.format(len(visits.geoid.unique())))
     return visits

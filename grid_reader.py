@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 def read_grids(grid_file_name,grid_name):
     fig, ax = plt.subplots(figsize = (15,10))
-    if grid_name == 'Cencus Blocks':
+    if grid_name == 'Census Blocks':
         cbgs = gpd.read_file('shapefiles/cb_2021_36_bg_500k/' + grid_file_name)
         
         COUNTYFP = ['081','061','005','047','085']  # NYC 5 borough codes

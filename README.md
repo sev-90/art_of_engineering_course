@@ -52,7 +52,7 @@ In module 1 we expect you to be able to successfully generate the following map 
 
 ### Step 2) Import function read_grids from grid_reader.py to read grids/shapefiles.
 
-You will read two shapefiles, Cencus Block Groups (CBGs) and taxi zones. Home locations of the visitors in the phone data are associated with cbgs. We will project them onto taxi zones. Because in next module our goal is to compare taxi users flow with visitors flow to Hudson Yards.
+You will read two shapefiles, Census Block Groups (CBGs) and taxi zones. Home locations of the visitors in the phone data are associated with cbgs. We will project them onto taxi zones. Because in next module our goal is to compare taxi users flow with visitors flow to Hudson Yards.
 
 ### Step 3) Extract mobile phone data of the visitors to the the destination of interest.
 
@@ -67,4 +67,18 @@ For this you will import function count_visit from visit_counter.py.
 You will see the pattern as the heat map in the figure below.
 
 ![](./map.png)
+
+# Module 2
+
+in second module, we are going to obtain the count of the taxi users who came to Hudson Yards from different origin locations in NYC. The goal of this module is to compare the taxi use count with visitors count to get a sence of which regions have higher demand for taxis for the trips to Hudson Yards from different location across the city. 
+
+Step 1) Download taxi data of month December year 2022 from the following link and save it to the folder 'data'
+
+ https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+Step 2) Re-run the main.ipynb code and the added Module 2 section
+
+Step 3) Generate the comparison map and interpret the pattern.
+
+
 
