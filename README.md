@@ -83,21 +83,21 @@ Step 3) Generate the comparison map and interpret the pattern.
 
 ![](./maps/comparison_map.png)
 
-# How to create a polygon shapefile:
+# How to create a polygon shapefile
 
 Step 1) Download and install Google Earth on your descktop from the following link
 
 https://www.google.com/earth/versions/
 
-Step 2) Open the app and searth your location of interest for example Columbia University, see the map below
+Step 2) Open the app and search your location of interest for example Columbia University
 
 ![](./GE1.png)
 
-Step 3) Select the Add Polygon from the top bar, draw the polygon, give a name and hit ok buttom
+Step 3) Select the Add Polygon from the top bar (shown by arrow), draw the polygon, give a name and hit ok 
 
 ![](./GE2.jpg)
 
-Step 4) On the left box named Places, you will find the named polygon, right click on the place and select save place as Kml format in your computer
+Step 4) On the left box named Places, you will find the polygon with your assigned name, right click on it and save place as Kmz format in your computer
 
 ![](./GE3.png)
 
