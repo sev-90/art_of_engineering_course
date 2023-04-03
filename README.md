@@ -82,3 +82,27 @@ Step 3) Generate the comparison map and interpret the pattern.
 
 
 ![](./maps/comparison_map.png)
+
+# How to create a polygon shapefile:
+
+Step 1) Download and install Google Earth on your descktop from the following link
+
+https://www.google.com/earth/versions/
+
+Step 2) Open the app and searth your location of interest for example Columbia University, see the map below
+
+![](./GE1.png)
+
+Step 3) Select the Add Polygon from the top bar, draw the polygon, give a name and hit ok buttom
+
+Step 4) On the left box named Places, you will find the named polygon, right click on the place and select save place as Kml format in your computer
+
+Step 5) Convert file with kml format to shapefile format using the code snippet named convert kmz_to_shp.py. You can find the code in this repository
+
+# Some useful links to download the dataset related to other modes of transportation 
+
+Citi Bike Dataset   https://data.cityofnewyork.us/browse?q=bike, https://citibikenyc.com/system-data
+
+Bus and Subway Ridership Dataset  https://new.mta.info/agency/new-york-city-transit/subway-bus-ridership-2021
+
+
