@@ -66,7 +66,7 @@ For this you will import function count_visit from visit_counter.py.
 
 You will see the pattern as the heat map in the figure below.
 
-![](./map.png)
+![](./maps/map.png)
 
 # Module 2
 
@@ -91,15 +91,15 @@ https://www.google.com/earth/versions/
 
 Step 2) Open the app and search your location of interest for example Columbia University
 
-![](./GE1.png)
+![](./maps/GE1.png)
 
 Step 3) Select the Add Polygon from the top bar (shown by arrow), draw the polygon, give a name and hit ok 
 
-![](./GE2.jpg)
+![](./maps/GE2.jpg)
 
 Step 4) On the left box named Places, you will find the polygon with your assigned name, right click on it and save place as Kmz format in your computer
 
-![](./GE3.png)
+![](./maps/GE3.png)
 
 Step 5) Convert file with kml format to shapefile format using the code snippet named convert kmz_to_shp.py. You can find the code in this repository
 
