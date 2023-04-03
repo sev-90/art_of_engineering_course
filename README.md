@@ -95,7 +95,7 @@ Step 2) Open the app and searth your location of interest for example Columbia U
 
 Step 3) Select the Add Polygon from the top bar, draw the polygon, give a name and hit ok buttom
 
-![](./GE2.png)
+![](./GE2.jpg)
 
 Step 4) On the left box named Places, you will find the named polygon, right click on the place and select save place as Kml format in your computer
 
